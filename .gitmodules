@@ -1,0 +1,6 @@
+[submodule "Integration/LibPCBS"]
+	path = Integration/LibPCBS
+	url = https://github.com/RetailWay/LibPCBS
+[submodule "private"]
+	path = private
+	url = https://github.com/RetailWay/.github-private
