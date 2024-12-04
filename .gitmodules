@@ -7,3 +7,15 @@
 [submodule "FiscalFormat"]
 	path = FiscalFormat
 	url = https://github.com/RetailWay/FiscalFormat
+[submodule "RetailCorrector"]
+	path = RetailCorrector
+	url = https://github.com/RetailWay/RetailCorrector
+[submodule "Integration/OfdRu"]
+	path = Integration/OfdRu
+	url = https://github.com/RetailWay/OfdRu
+[submodule "Integration/SabyOfd"]
+	path = Integration/SabyOfd
+	url = https://github.com/RetailWay/SabyOfd
+[submodule "Integration/PlatformOfd"]
+	path = Integration/PlatformOfd
+	url = https://github.com/RetailWay/PlatformOfd
